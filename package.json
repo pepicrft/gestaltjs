@@ -1,0 +1,5 @@
+{
+  "name": "@gestaltjs/workspace",
+  "private": true,
+  "type": "module"
+}
